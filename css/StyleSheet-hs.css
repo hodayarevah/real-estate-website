@@ -1,0 +1,77 @@
+﻿
+video#home-section {
+    margin: 0 auto;
+    display: block;
+    width: 100%;
+}
+
+.move {
+    font-family: "Segoe UI", sans-serif;
+    font-weight: 300;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#imjsize {
+    position: relative;
+    float: left;
+    width:  450px;
+    height: 200px;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#hetxt {
+    direction: rtl;
+    font-family: "Segoe UI",sans-serif;
+}
+
+.markT {
+    color: black;
+    background: rgba(46, 95, 120, 0.74);
+    font-weight: 800;
+    position: absolute;
+    font-family: "Segoe UI",sans-serif;
+ 
+}
+
+#hedertext {
+    color: white;
+    background-color: #00b9cf;
+    font: bold;
+    font-family: "Segoe UI"sans-serif;
+    
+}
+
+.site-navbar .site-navigation .site-menu > li > a {
+    color: #000;
+    font-size: 24px;
+    font-family: sans-serif;
+    font-weight: 300;
+    font-family: "Segoe UI"
+}
+
+div#sticky-wrapper {
+    background-color: #ffffff82;
+}
+.sticky-wrapper .site-navbar {
+    border-bottom: none;
+}
+div#sticky-wrapper {
+    height: 100px !important;
+}
+
+    div#sticky-wrapper .site-navbar {
+        height: 100px;
+        padding: 0 !important;
+    }
+#project_dist {
+    padding-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+
